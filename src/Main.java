@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args){
 
+        //buna Timea
+
         //declarare - metoda 1
         int[] numbers = new int[10];
         numbers[0] = 10;
